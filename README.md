@@ -71,6 +71,8 @@ Zepto-Inventory-Analysis/
 │
 ├── MRP_and_Discount_Factor.png
 │
+├── corr_matrix.png
+│
 ├── logo.png
 │
 └── visual_assets/
