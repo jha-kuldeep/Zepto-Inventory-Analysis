@@ -197,8 +197,24 @@ Introduce time-series demand forecasting for proactive replenishment.
 
 ---
 
-# 📷 Sample Visualizations
+# 📊 Key Visualizations
 
+## 📦 Project Logo
+
+![Project Logo](logo.png)
+
+## 📈 Overall Stock Availability
+
+![Stock Availability](In_vs_out_of_stock.png)
+
+## 📊 Category-wise Out-of-Stock Analysis
+
+![Category Wise Stockout](Category_wise_out_of_stock_products.png)
+
+
+## 💰 MRP vs Discount Factor
+
+![MRP vs Discount](MRP_and_Discount_Factor.png)
 
 ---
 
