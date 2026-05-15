@@ -52,26 +52,21 @@ This project answers key business questions such as:
 
 # 📂 Project Structure
 
-```bash
-├── data/
-│   └── zepto_v2.csv
-│
-├── notebook/
-│   └── Zepto_Inventory_Analysis.ipynb
-│
-├── report/
-│   └── Zepto_Inventory_Analysis_Report.pdf
-│
-├── presentation/
-│   └── Zepto_Inventory_Analysis_Presentation.pptx
-│
-├── images/
-│   └── charts_and_visuals
-│
-└── README.md
-```
+# 📂 Project Structure
 
----
+```bash
+Zepto-Inventory-Analysis/
+│
+├── README.md
+│
+├── Zepto_Inventory_Analysis_Notebook.ipynb
+│
+├── Zepto_Inventory_Analysis_Report.pdf
+│
+├── Zepto-Inventory-Analysis_Presentation.pdf
+│
+├── zepto_inventory_analysis_sql_file.sql
+
 
 # 📊 Dataset Information
 
