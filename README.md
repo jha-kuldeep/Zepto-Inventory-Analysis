@@ -52,8 +52,6 @@ This project answers key business questions such as:
 
 # 📂 Project Structure
 
-# 📂 Project Structure
-
 ```bash
 Zepto-Inventory-Analysis/
 │
@@ -66,6 +64,21 @@ Zepto-Inventory-Analysis/
 ├── Zepto-Inventory-Analysis_Presentation.pdf
 │
 ├── zepto_inventory_analysis_sql_file.sql
+│
+├── Category_wise_out_of_stock_products.png
+│
+├── In_vs_out_of_stock.png
+│
+├── MRP_and_Discount_Factor.png
+│
+├── logo.png
+│
+└── visual_assets/
+    ├── category_analysis/
+    ├── stockout_analysis/
+    ├── pricing_analysis/
+    └── dashboard_visuals/
+```
 
 
 # 📊 Dataset Information
@@ -184,11 +197,6 @@ Introduce time-series demand forecasting for proactive replenishment.
 
 # 📷 Sample Visualizations
 
-- Out-of-stock rate analysis
-- Category-wise risk heatmaps
-- MRP vs Discount scatter plots
-- Catalog composition charts
-- SQL KPI validation visuals
 
 ---
 
